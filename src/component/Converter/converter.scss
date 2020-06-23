@@ -1,6 +1,6 @@
 .converter {
     max-width: 768px;
-    margin: 30px auto;
+    margin: 20px auto;
     padding: 10px;
     background-color: #fff;
     border: 1px solid #e1e4e8;
@@ -73,5 +73,12 @@
     @-ms-keyframes fadeIn {
         0% {opacity:0;}
         100% {opacity:1;}
+    }
+}
+
+
+@media only screen and (min-width: 768px) {
+    .converter {
+        margin: 30px auto;
     }
 }
