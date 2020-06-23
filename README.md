@@ -28,6 +28,11 @@ constraints:
 -   [ ] User can enter a variable number of binary digits
 
 
+Credits
+----
+- [florinpop17](https://github.com/florinpop17/app-ideas)
+- Icons made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from [flaticon](https://www.flaticon.com/)
+- Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon](https://www.flaticon.com/)
 
 License
 ----
