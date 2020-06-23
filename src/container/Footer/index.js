@@ -17,7 +17,7 @@ const index = () => {
                 <a href="https://github.com/rushijagani" target="_blank" rel="noopener noreferrer">
                     <img src={github} alt="github"/>
                 </a>
-                <a href="https://https//twitter.com/rushijagani_rj" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/rushijagani_rj" target="_blank" rel="noopener noreferrer">
                     <img src={twitter} alt="twitter"/>
                 </a>
                 <a href="https://www.linkedin.com/in/rushi-jagani-99a37241/" target="_blank" rel="noopener noreferrer">
