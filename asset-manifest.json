@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/binary-to-decimal/static/css/main.b745db8f.chunk.css",
+    "main.css": "/binary-to-decimal/static/css/main.0473d909.chunk.css",
     "main.js": "/binary-to-decimal/static/js/main.1ead0fd4.chunk.js",
     "main.js.map": "/binary-to-decimal/static/js/main.1ead0fd4.chunk.js.map",
     "runtime-main.js": "/binary-to-decimal/static/js/runtime-main.44fa09f8.js",
@@ -8,9 +8,9 @@
     "static/js/2.5aa52ecc.chunk.js": "/binary-to-decimal/static/js/2.5aa52ecc.chunk.js",
     "static/js/2.5aa52ecc.chunk.js.map": "/binary-to-decimal/static/js/2.5aa52ecc.chunk.js.map",
     "index.html": "/binary-to-decimal/index.html",
-    "precache-manifest.dbc3bdd435fc10c29bf81a64623c1679.js": "/binary-to-decimal/precache-manifest.dbc3bdd435fc10c29bf81a64623c1679.js",
+    "precache-manifest.ad356bf58a8e9aaf9f279de0c3bd8035.js": "/binary-to-decimal/precache-manifest.ad356bf58a8e9aaf9f279de0c3bd8035.js",
     "service-worker.js": "/binary-to-decimal/service-worker.js",
-    "static/css/main.b745db8f.chunk.css.map": "/binary-to-decimal/static/css/main.b745db8f.chunk.css.map",
+    "static/css/main.0473d909.chunk.css.map": "/binary-to-decimal/static/css/main.0473d909.chunk.css.map",
     "static/js/2.5aa52ecc.chunk.js.LICENSE.txt": "/binary-to-decimal/static/js/2.5aa52ecc.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/binary-to-decimal/static/media/facebook.422e7665.svg",
     "static/media/github.svg": "/binary-to-decimal/static/media/github.a112a001.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.44fa09f8.js",
     "static/js/2.5aa52ecc.chunk.js",
-    "static/css/main.b745db8f.chunk.css",
+    "static/css/main.0473d909.chunk.css",
     "static/js/main.1ead0fd4.chunk.js"
   ]
 }

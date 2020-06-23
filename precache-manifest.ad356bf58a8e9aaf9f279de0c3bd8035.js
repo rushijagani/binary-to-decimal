@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40317dd9466bdcc82741f0188b37b88e",
+    "revision": "a1d477fbaa58ad493ad6fb441b0ef5ca",
     "url": "/binary-to-decimal/index.html"
   },
   {
-    "revision": "0c5729bb88ce5039a35a",
-    "url": "/binary-to-decimal/static/css/main.b745db8f.chunk.css"
+    "revision": "d43a71f8ea57b46d7119",
+    "url": "/binary-to-decimal/static/css/main.0473d909.chunk.css"
   },
   {
     "revision": "37c5695fbaf288b63f9c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/binary-to-decimal/static/js/2.5aa52ecc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c5729bb88ce5039a35a",
+    "revision": "d43a71f8ea57b46d7119",
     "url": "/binary-to-decimal/static/js/main.1ead0fd4.chunk.js"
   },
   {
