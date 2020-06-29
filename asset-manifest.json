@@ -1,20 +1,18 @@
 {
   "files": {
     "main.css": "/binary-to-decimal/static/css/main.0473d909.chunk.css",
-    "main.js": "/binary-to-decimal/static/js/main.1ead0fd4.chunk.js",
-    "main.js.map": "/binary-to-decimal/static/js/main.1ead0fd4.chunk.js.map",
+    "main.js": "/binary-to-decimal/static/js/main.e404f996.chunk.js",
+    "main.js.map": "/binary-to-decimal/static/js/main.e404f996.chunk.js.map",
     "runtime-main.js": "/binary-to-decimal/static/js/runtime-main.44fa09f8.js",
     "runtime-main.js.map": "/binary-to-decimal/static/js/runtime-main.44fa09f8.js.map",
-    "static/js/2.5aa52ecc.chunk.js": "/binary-to-decimal/static/js/2.5aa52ecc.chunk.js",
-    "static/js/2.5aa52ecc.chunk.js.map": "/binary-to-decimal/static/js/2.5aa52ecc.chunk.js.map",
+    "static/js/2.dc2df98b.chunk.js": "/binary-to-decimal/static/js/2.dc2df98b.chunk.js",
+    "static/js/2.dc2df98b.chunk.js.map": "/binary-to-decimal/static/js/2.dc2df98b.chunk.js.map",
     "index.html": "/binary-to-decimal/index.html",
-    "precache-manifest.ad356bf58a8e9aaf9f279de0c3bd8035.js": "/binary-to-decimal/precache-manifest.ad356bf58a8e9aaf9f279de0c3bd8035.js",
+    "precache-manifest.d601287ae3a5745fe428780883863b97.js": "/binary-to-decimal/precache-manifest.d601287ae3a5745fe428780883863b97.js",
     "service-worker.js": "/binary-to-decimal/service-worker.js",
     "static/css/main.0473d909.chunk.css.map": "/binary-to-decimal/static/css/main.0473d909.chunk.css.map",
-    "static/js/2.5aa52ecc.chunk.js.LICENSE.txt": "/binary-to-decimal/static/js/2.5aa52ecc.chunk.js.LICENSE.txt",
-    "static/media/facebook.svg": "/binary-to-decimal/static/media/facebook.422e7665.svg",
+    "static/js/2.dc2df98b.chunk.js.LICENSE.txt": "/binary-to-decimal/static/js/2.dc2df98b.chunk.js.LICENSE.txt",
     "static/media/github.svg": "/binary-to-decimal/static/media/github.a112a001.svg",
-    "static/media/instagram.svg": "/binary-to-decimal/static/media/instagram.91a8e68d.svg",
     "static/media/linkedin.svg": "/binary-to-decimal/static/media/linkedin.89dcd695.svg",
     "static/media/mail.svg": "/binary-to-decimal/static/media/mail.bfe8a6b5.svg",
     "static/media/twitter.svg": "/binary-to-decimal/static/media/twitter.88c38bdc.svg",
@@ -22,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.44fa09f8.js",
-    "static/js/2.5aa52ecc.chunk.js",
+    "static/js/2.dc2df98b.chunk.js",
     "static/css/main.0473d909.chunk.css",
-    "static/js/main.1ead0fd4.chunk.js"
+    "static/js/main.e404f996.chunk.js"
   ]
 }
