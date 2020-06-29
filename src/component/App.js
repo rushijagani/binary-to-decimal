@@ -7,9 +7,9 @@ import './main.scss';
 function App() {
   return (
     <>
-    <Header />
-    <Converter />
-    <Footer />
+      <Header />
+      <Converter />
+      <Footer />
     </>
   );
 }
